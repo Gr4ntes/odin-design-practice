@@ -160,7 +160,8 @@ body {
     align-items: center;
 }
 
-#call-to-action-text h3, p {
+#call-to-action-text h3,
+#call-to-action-text p {
     margin: 0;
 }
 
@@ -172,4 +173,8 @@ body {
     width: 150px;
     height: 40px;
     font-weight: bold;
+}
+
+#footer {
+    height: 100px;
 }
